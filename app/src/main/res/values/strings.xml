@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Event Raja Api</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="kabupaten">Kabupaten</string>
+    <string name="kecamatan">Kecamatan</string>
+    <string name="kelurahan">Kelurahan</string>
+</resources>
